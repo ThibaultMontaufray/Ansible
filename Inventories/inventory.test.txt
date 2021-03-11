@@ -1,1 +1,1 @@
-target58016 ansible_host=185.41.154.133 ansible_ssh_pass=Wo6RTe5Oy5Q1
+db_and_web_server ansible_host=185.41.154.133 ansible_ssh_pass=Wo6RTe5Oy5Q1 # 58016
